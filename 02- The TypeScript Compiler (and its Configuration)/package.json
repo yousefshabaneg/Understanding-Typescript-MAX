@@ -1,0 +1,20 @@
+{
+  "name": "understanding-typescript",
+  "version": "1.0.0",
+  "description": "- Use TypeScript and its Features like Types, ES6 Support, Classes, Modules, Interfaces and much more in any of their Projects.\r - Why TypeScript offers a real advantage over vanilla JavaScript.\r - Learn how to combine TypeScript with ReactJS or NodeJS / Express.\r - Understand what TypeScript really is about and how it works.\r - Learn TypeScript both in theory as well as applied to real use-cases and projects.\r - This course is created By (**`Maximilian Schwarzmüller`**).",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc app.ts --watch",
+    "dev": "nodemon app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefshabaneg/TypescriptCourse---Max.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousefshabaneg/TypescriptCourse---Max/issues"
+  },
+  "homepage": "https://github.com/yousefshabaneg/TypescriptCourse---Max#readme"
+}
