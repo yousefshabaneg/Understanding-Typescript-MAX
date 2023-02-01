@@ -13,6 +13,7 @@
 | 2   | [ The TypeScript Compiler (and its Configuration) ](<02-The_TypeScript_Compiler_(and_its_Configuration)/README.md>) |
 | 3   | [ Next-generation JavaScript & TypeScript ](03-Next_generation_JavaScript_TypeScript/README.md)                     |
 | 4   | [ Classes & Interfaces ](04-Classes_Interfaces/README.md)                                                           |
+| 5   | [ Advanced Types ](05-Advanced_Types/README.md)                                                                     |
 
 ## FAQ
 
