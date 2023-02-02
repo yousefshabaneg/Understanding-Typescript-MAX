@@ -14,6 +14,7 @@
 | 3   | [ Next-generation JavaScript & TypeScript ](03-Next_generation_JavaScript_TypeScript/README.md)                     |
 | 4   | [ Classes & Interfaces ](04-Classes_Interfaces/README.md)                                                           |
 | 5   | [ Advanced Types ](05-Advanced_Types/README.md)                                                                     |
+| 6   | [ Generics ](06-Generics/README.md)                                                                                 |
 
 ## FAQ
 
