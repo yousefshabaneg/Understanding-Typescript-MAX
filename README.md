@@ -15,6 +15,7 @@
 | 4   | [ Classes & Interfaces ](04-Classes_Interfaces/README.md)                                                           |
 | 5   | [ Advanced Types ](05-Advanced_Types/README.md)                                                                     |
 | 6   | [ Generics ](06-Generics/README.md)                                                                                 |
+| 7   | [ Decorators ](07-Decorators/README.md)                                                                             |
 
 ## FAQ
 
