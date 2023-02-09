@@ -16,6 +16,9 @@
 | 5   | [ Advanced Types ](05-Advanced_Types/README.md)                                                                     |
 | 6   | [ Generics ](06-Generics/README.md)                                                                                 |
 | 7   | [ Decorators ](07-Decorators/README.md)                                                                             |
+| 8   | [ Drag And Drop ](08-Drag_Drop_Project/README.md)                                                                   |
+| 9   | [ Modules and Namespaces ](09-Modules_and_Namespaces/README.md)                                                     |
+| 10  | [ Webpack ](10-Webpack/README.md)                                                                                   |
 
 ## FAQ
 
